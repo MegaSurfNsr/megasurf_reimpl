@@ -6,7 +6,7 @@
 
 # About
 
-Due to company licensing reasons, the code cannot be taken out. I reproduced most of the content in the article myself based on the [SDFStudio](https://autonomousvision.github.io/sdfstudio/) and the experiment results are consistent with that shown in the paper. It should be noted that in this repo: 1. The geometry prior directly uses the output of PGSR. 2. Parameters will need to be adjusted later to accelerate training speed.
+Due to company code licensing restrictions, the code cannot be taken out. I reproduced most of the content in the article myself based on the [SDFStudio](https://autonomousvision.github.io/sdfstudio/) and the results of the experiment are visually consistent with the article. It should be noted that in this repo: 1. The geometry prior directly uses the output of PGSR. 2. Parameters will need to be adjusted later to accelerate training speed.
 # Updates
 
 **2024.10.20**: First upload.
