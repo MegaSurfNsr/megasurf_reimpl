@@ -44,8 +44,8 @@ pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/to
 ### Installing SDFStudio
 
 ```bash
-git clone https://github.com/autonomousvision/sdfstudio.git
-cd sdfstudio
+git clone https://github.com/MegaSurfNsr/megasurf_reimpl.git
+cd megasurf_reimpl
 pip install --upgrade pip setuptools
 pip install -e .
 ```
