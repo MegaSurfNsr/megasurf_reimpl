@@ -41,7 +41,7 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.py
 pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
 ```
 
-### Installing SDFStudio
+### Installing Megasurf_reimpl
 
 ```bash
 git clone https://github.com/MegaSurfNsr/megasurf_reimpl.git
